@@ -1,2 +1,2 @@
 # QT-chat-application-
-application with server and client parts
+simple QT chat application.
